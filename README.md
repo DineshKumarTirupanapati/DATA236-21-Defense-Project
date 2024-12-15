@@ -22,7 +22,6 @@ The system runs locally with development deployment enabled via ngrok.
 
 ## Project Structure
 
-```plaintext
 ecommerce-nextjs-m
 |
 ├── .next/                      
